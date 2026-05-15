@@ -1,6 +1,7 @@
 import yaml
 from os.path import join
 
+
 CONFIG_PATH = "config"
 config_name = "config.yaml"
 
